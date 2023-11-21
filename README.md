@@ -1,1 +1,1 @@
-# TripIt
+# Create simple landing page
